@@ -1,0 +1,5 @@
+immutable_var = tuple =1, 2, "f", "g"
+print(immutable_var)
+mutable_list = [2, 4, "t"]
+mutable_list[1] = 5
+print(mutable_list)
